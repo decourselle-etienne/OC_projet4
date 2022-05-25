@@ -20,8 +20,8 @@ a:hover {
     cursor: pointer;
 }
 
-a:focus-visible {
-    outline: #c27956 1px solid;
+a:focus {
+    outline: 2px solid black;
 }
 
 #page-loading-blocs-notifaction {
