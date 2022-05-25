@@ -7,9 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-*:focus-visible {
-    border: #c27956 1px solid;
-}
+
 
 a,
 button {
@@ -20,6 +18,10 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+}
+
+a:focus-visible {
+    border: #c27956 1px solid;
 }
 
 #page-loading-blocs-notifaction {
