@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-*:focus {
+*:focus-visible {
     border: #c27956 1px solid;
 }
 
