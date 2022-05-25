@@ -21,8 +21,9 @@ a:hover {
 }
 
 a:focus {
-    outline: 2px solid black;
+    outline: #c27956 2px solid;
 }
+
 
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -338,8 +339,7 @@ a:focus {
     text-align: inherit;
 }
 
-.nav>li a:hover,
-.nav>li a:focus {
+.nav>li a:hover {
     background: transparent;
 }
 
@@ -467,8 +467,7 @@ nav .caret {
 }
 
 .btn-d,
-.btn-d:hover,
-.btn-d:focus {
+.btn-d:hover {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
 }
