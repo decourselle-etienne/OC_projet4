@@ -21,7 +21,7 @@ a:hover {
 }
 
 a:focus-visible {
-    border: #c27956 1px solid;
+    outline: #c27956 1px solid;
 }
 
 #page-loading-blocs-notifaction {
