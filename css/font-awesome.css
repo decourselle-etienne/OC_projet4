@@ -2,7 +2,6 @@
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
-
 @font-face {
     font-family: 'FontAwesome';
     src: url('../fonts/fontawesome-webfont.eot?v=4.7.0');
@@ -119,8 +118,8 @@
 
 @-webkit-keyframes fa-spin {
     0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg)
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
     }
 
     100% {
@@ -131,8 +130,8 @@
 
 @keyframes fa-spin {
     0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg)
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
     }
 
     100% {
